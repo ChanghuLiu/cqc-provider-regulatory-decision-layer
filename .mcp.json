@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cqc-provider-regulatory-decision-layer": {
+      "type": "http",
+      "url": "https://cqc-provider-mcp-production.up.railway.app/mcp"
+    }
+  }
+}
